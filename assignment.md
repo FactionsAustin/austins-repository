@@ -1,5 +1,5 @@
 ### Winter Wonderland Lyrics - Austin
-Winter Wonderland
+***Winter Wonderland
 By: Darlene Love
 
 Sleigh bells ring, are you listenin'
@@ -36,4 +36,7 @@ Walking in a winter wonderland (wo oh oh)
 Walking in a winter wonderland (wo oh oh)
 Walking in a winter wonderland (wo oh oh)
 Walking in a winter wonderland
+
+![image](https://github.com/FactionsAustin/austins-repository/assets/33794728/33af9a4a-4328-4ff1-b980-3b6d4adb72b6)
+
 
